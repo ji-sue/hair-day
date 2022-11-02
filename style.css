@@ -6,7 +6,7 @@
   }
 
   .hlogo{
-    align-items: center;
+    justify-content: center;
   
   }
   
@@ -85,7 +85,7 @@
     background-color: transparent;
     padding: 22px 34px;
     border-radius: 5px;
-    border:  2px solid rgb(128, 128, 128);
+    border-color:  2px solid rgb(128, 128, 128);
   }
   
   /* Service */
